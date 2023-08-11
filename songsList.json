@@ -1,0 +1,26 @@
+{
+    "title": "音控研習",
+    "groups": [
+        {
+            "subTitle": "2023 音控研習",
+            "songs": [
+                {
+                    "name": "戴佩妮 - 時間快轉",
+                    "youtubeId": "0tm76edS7WM"
+                },
+                {
+                    "name": "24K Magic",
+                    "youtubeId": "r7-A9NqUjRI"
+                },
+                {
+                    "name": "Ariana Grande - no tears left to cry",
+                    "youtubeId": "ffxKSjUwKdU"
+                },
+                {
+                    "name": "蘇打綠 - 下雨的夜晚",
+                    "youtubeId": "2cCligRwFoI"
+                }
+            ]
+        }
+    ]
+}
